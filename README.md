@@ -2,7 +2,7 @@
 ![download](https://github.com/linux-china/chatgpt-spring-boot-starter/assets/89374471/294cfbcc-4a85-4467-a2ed-14bb70898dda)
 
 
-<!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
+<!-- ![linke3 mackph](https://res.cloudinary.com/practicaldev/image/fetch/s--oTCqhU8T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/kfyk4ne0vb187mhh1o95.jpg) -->
 
 
 ### Hi there, I'm [yash kaushik](https://www.linkedin.com/in/yash-kaushik-a0b57b230/)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
