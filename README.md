@@ -19,7 +19,7 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 
 ### `Coding Profiles:`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/yashkaushik1/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kaushik-a0b57b230/)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/yashkaushik955/)
 
 - 🌱 I’m currently in love with <b>DeepLearning</b>
