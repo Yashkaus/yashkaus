@@ -1,11 +1,9 @@
 
-![download](https://github.com/linux-china/chatgpt-spring-boot-starter/assets/89374471/294cfbcc-4a85-4467-a2ed-14bb70898dda)
+### Hi there, I'm [yash kaushik](https://www.linkedin.com/in/yash-kaushik-a0b57b230/)👋🏻
+
+![Profile Picture](https://res.cloudinary.com/practicaldev/image/fetch/s--oTCqhU8T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/kfyk4ne0vb187mhh1o95.jpg)
 
 
-<!-- ![linke3 mackph](https://res.cloudinary.com/practicaldev/image/fetch/s--oTCqhU8T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/kfyk4ne0vb187mhh1o95.jpg) -->
-
-
-### Hi there, I'm [yash kaushik](https://www.linkedin.com/in/yash-kaushik-a0b57b230/)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
 I am an intermediate back-end developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
 
