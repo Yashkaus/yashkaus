@@ -1,6 +1,4 @@
-Here's an updated version of your profile based on your resume details:
 
----
 
 ### Hi there, I'm [Yash Kaushik](https://www.linkedin.com/in/yash-kaushik-a0b57b230/) 👋🏻
 
